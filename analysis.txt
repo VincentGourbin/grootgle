@@ -1,0 +1,7 @@
+Date : 22/01/2022
+Nitrates,N03 : 0.25
+Nitrites,N02 : 0.05
+Salinité : 1022
+Calcium,Ca : 475
+Magnésium,Mg : 1320
+Silicate,Si : 0.03
